@@ -52,3 +52,4 @@ temp/
 
 # Scripts (可選，如果不想上傳)
 update-scripts.js
+.env
